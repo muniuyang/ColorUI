@@ -34,5 +34,6 @@ Component({
         url: '/pages/plugin' + e.currentTarget.dataset.url
       })
     },
+    
   }
 });
